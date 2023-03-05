@@ -1,0 +1,1 @@
+0,30 * * * * python ~/../datalogger/get_weather.py >> ~/../datalogger/log/crontab_log.txt
